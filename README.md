@@ -1,2 +1,3 @@
 # MFPointNet_feature_dataset
 To address the lack of sufficient dataset for using neural networks to recognize the machining features, we established a novel machining feature dataset called MFDataset. The MFDataset contains 33 subcategories features, with approximately 2000 features per category. The detailed category of dataset is shown in Fig.1 below.
+![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig1.svg)
