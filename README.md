@@ -31,4 +31,10 @@ These feature models are ".STL" data format. To train the neural network, we nee
 
 Fig.3 below depicts some voxelized models of machining feature.
 
+![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig3.svg)
+
+(2) Point cloud feature datasets:
+
+After the extraction of feature surface point sets and the Poisson distribution sampling in turn, we contruct the point cloud datasets as some models are shown in Fig.4 below.
+
 
