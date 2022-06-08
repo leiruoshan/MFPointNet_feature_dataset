@@ -22,3 +22,4 @@ Others: Opened pocket, Closed pocket, Triangular rib reinforcement, General remo
 
 The 33 subategories features are shown in Fig.2 below.
 
+![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig2.svg)
