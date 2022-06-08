@@ -37,5 +37,5 @@ Fig.3 below depicts some voxelized models of machining feature.
 
 After the extraction of feature surface point sets and the Poisson distribution sampling in turn, we contruct the point cloud datasets as some models are shown in Fig.4 below. The Fig.4 shows the 1024 points and 512 points of each feature model respectively.
 
-
+![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig4.svg)
 
