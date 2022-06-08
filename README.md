@@ -24,3 +24,11 @@ Others: Opened pocket, Closed pocket, Triangular rib reinforcement, General remo
 The 33 subategories features are shown in Fig.2 below.
 
 ![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig2.svg)
+
+These feature models are ".STL" data format. To train the neural network, we need to transform these models into the data format suitable for inputting the CNNs. In our proposed method, we convert them into the ".binvox" data format (voxel) and ".txt" data format (point cloud format, after point downsampling) separately.
+
+(1) Binvox feature datasets:
+
+Fig.3 below depicts some voxelized models of machining feature.
+
+
