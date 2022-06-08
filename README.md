@@ -20,3 +20,5 @@ Bases: Plane, External cylindrical surface (2 types)
 
 Others: Opened pocket, Closed pocket, Triangular rib reinforcement, General removal of volume, Spherical crown (5 types)
 
+The 33 subategories features are shown in Fig.2 below.
+
