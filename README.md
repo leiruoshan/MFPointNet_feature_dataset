@@ -40,3 +40,5 @@ After the extraction of feature surface point sets and the Poisson distribution 
 ![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig4.svg)
 
 The detailed list of machining features and their parameters (parameters range) are provided in the [.PDF file](Appendix_I.pdf) included with this repository.
+
+The MFDataset models and their corresponding point cloud models (1024 points and 512 points) are presented in the [.PDF file](Appendix_II.pdf) included with this repository.
