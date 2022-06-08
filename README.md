@@ -4,6 +4,7 @@ To address the lack of sufficient dataset for using neural networks to recognize
 ![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig1.svg)
 
 The MFDataset includes in detail:
+
 Slots: T-through slot, V-through slot, Rounded groove, Swallowtail groove, A-keyway, B-keyway, C-keyway, Half-moon keyway, Straight groove, Ring-shaped groove (10 types)
 
 Holes: Round through hole, Round blind hole, Cylindrical countersunk hole, Tapered countersunk hole, Round stepped hole, A-center hole (6 types)
