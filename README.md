@@ -39,6 +39,8 @@ After the extraction of feature surface point sets and the Poisson distribution 
 
 ![image](https://github.com/leiruoshan/MFPointNet_feature_dataset/blob/main/Fig4.svg)
 
+The related paper are shown in the [MFPointNet: A Point Cloud-Based Neural Network Using Selective Downsampling Layer for Machining Feature Recognition](https://doi.org/10.3390/machines10121165)
+
 The detailed list of machining features and their parameters (parameters range) are provided in the [.PDF file](Appendix_I.pdf) included with this repository.
 
 The MFDataset models and their corresponding point cloud models (1024 points and 512 points) are presented in the [.PDF file](Appendix_II.pdf) included with this repository.
